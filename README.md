@@ -1,7 +1,9 @@
 # IoT
 
-Arduino | Activities
-Raspbery Pi | Activities
+Device | Activities
+--- | ---
+Arduino | Set1, Set2, Set3, Set4, Set5
+RPi | Set1, Set2, Set3, Set4, Set5
 
 <hr/>
 <img src="https://github.com/clydeatuic/CloudDatabase/blob/master/uic.png" height="150" />
