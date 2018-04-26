@@ -1,4 +1,4 @@
-# IoT
+# IoT Activities in UIC
 
 Device | Activities
 --- | ---
