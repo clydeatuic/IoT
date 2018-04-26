@@ -1,1 +1,1 @@
-Files has been saved to private repository.
+File has been transferred to private repository.
